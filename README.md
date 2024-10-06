@@ -2,7 +2,7 @@
 
 ### 1. Clone the repository
 
-First, clone this repository to your local machine:
+Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/ch1zzzz/endpoint-monitor.git
@@ -50,4 +50,4 @@ python monitor.py test_endpoints.yaml
 
 ### 6. Stop the application
 
-To stop the program, simply press `Ctrl + C` in the terminal. The program will gracefully stop the monitoring process and exit.
+To stop the program, press `Ctrl + C`.
